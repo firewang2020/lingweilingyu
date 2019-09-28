@@ -5,4 +5,5 @@
   - 3方法论 [方法论](互联网方法论.md)
 
 - 关注我们
+
 ![qrcode](https://github.com/firewang2020/lingweilingyu/raw/master/qrcode_for_lingweilingyu.jpg)
